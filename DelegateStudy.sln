@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegateDemo", "DelegateStudy\DelegateDemo.csproj", "{14ADC8F0-63F1-42C4-8DE8-70B125771E03}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegateDemo1", "DelegateStudy\DelegateDemo1.csproj", "{14ADC8F0-63F1-42C4-8DE8-70B125771E03}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegateDemo2", "DelegateDemo2\DelegateDemo2.csproj", "{0CDA219F-A8FE-47A7-AE53-B9E911DAA895}"
 EndProject

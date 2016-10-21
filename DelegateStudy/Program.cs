@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace DelegateDemo
+namespace DelegateDemo1
 {
     internal delegate int GetResult(int max,int min);
     class Program
